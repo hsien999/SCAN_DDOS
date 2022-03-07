@@ -1,0 +1,4 @@
+colorama==0.4.4
+prettytable==2.4.0
+pyfiglet==0.8.post1
+scapy==2.4.5
